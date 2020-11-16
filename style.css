@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(to right, rgba(91, 44, 111,0), rgba(91, 44, 111,0.5));
+}
+.head {
+    color: white;
+    text-align: center;
+    background-color: #4A235A;
+}
+.btn1
+{
+    display: inline-block;
+}
+.btn2
+{
+    display: none;
+}
